@@ -40,7 +40,6 @@
                     <execution>
                         <id>validate</id>
                         <phase>validate</phase>
-                        5
                         <goals>
                             <goal>check</goal>
                         </goals>
